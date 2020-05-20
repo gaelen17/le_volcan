@@ -1,6 +1,7 @@
 body {
 	background-color: powderblue;
 	text-align: center;
+	font-family: verdana;
 }
 
 h1 {
@@ -20,4 +21,11 @@ h1 {
 	padding: 30px;
 	margin:20px;
 	color: aliceblue;
+}
+#plage {
+	background-color :palegoldenrod;
+	font-size: 60px;
+	padding: 30 px;
+	margin: 20px;
+	color : orange;
 }
