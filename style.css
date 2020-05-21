@@ -10,12 +10,13 @@ h1{
 
 }
 #volcan {
-	font-size: 40px;
+	font-size: 60px;
 	padding: 30px;
 	margin:20px;
+
 }
 #foret {
-	background-color: green;
+	background-color: #2E8b57;
 	font-size: 40px;
 	padding: 30px;
 	margin:20px;
