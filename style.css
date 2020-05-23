@@ -38,6 +38,15 @@ h1{
 	padding: 30px;
 	margin:20px;
 	color: aliceblue;
+	margin-bottom: 5vw; 
+	margin-left: 8vw; 
+	padding-bottom: 2.3vw; 
+	padding-left: 1vw; 
+	padding-right: 1vw; 
+	width: 20vw; 
+	height: 10vw;
+	border-radius: 30vw; 
+	letter-spacing: 1px;
 }
 #plage {
 	background-color :palegoldenrod;
