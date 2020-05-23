@@ -10,15 +10,26 @@ h1{
 
 }
 #volcan {
-	font-size: 40px;
+	font-size: 60px;
 	padding: 30px;
 	margin:20px;
+
 }
 #foret {
-	background-color: green;
-	font-size: 40px;
-	padding: 30px;
-	margin:20px;
+	background-color: #2E8b57;
+	border-style: dotted; 
+	margin-bottom: 5vw; 
+	margin-left: 2vw; 
+	padding-bottom: 2.3vw; 
+	padding-left: 1vw; 
+	padding-right: 1vw; 
+	width: 20vw; 
+	height: 10vw;
+	border-radius: 30vw; 
+	letter-spacing: 1px;
+ 	font-size: 2vw; 
+ 	font-style: serif; 
+ 	text-align: center;
 	color: white;
 }
 #mer {
@@ -30,8 +41,19 @@ h1{
 }
 #plage {
 	background-color :palegoldenrod;
-	font-size: 60px;
-	padding: 30 px;
-	margin: 20px;
+	border-style: dashed; 
+	margin-bottom: 5vw; 
+	margin-left: 8vw; 
+	padding-bottom: 2.3vw; 
+	padding-left: 1vw; 
+	padding-right: 1vw; 
+	width: 20vw; 
+	height: 10vw;
+	border-radius: 30vw; 
+	letter-spacing: 1px;
+ 	font-size: 5vw; 
+ 	font-style: serif; 
+ 	text-align: center;
+
 	color : orange;
 }
